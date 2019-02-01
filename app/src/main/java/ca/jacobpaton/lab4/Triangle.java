@@ -1,5 +1,5 @@
 package ca.jacobpaton.lab4;
 
-public class extends Shape{
+public class Triangle extends Shape{
     int z;
         }
