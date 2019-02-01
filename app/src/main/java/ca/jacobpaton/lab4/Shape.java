@@ -1,5 +1,5 @@
 package ca.jacobpaton.lab4;
 
 public abstract class Shape {
-    int x, y, z;
+    int x, y, z, a;
 }
